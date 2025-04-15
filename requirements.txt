@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+lifetimes
+yellowbrick
+matplotlib-venn
+tensorflow
+joblib
+openpyxl 
+xlrd
+statsmodels
